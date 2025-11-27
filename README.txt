@@ -15,3 +15,4 @@
 1. กลับ collection_3 จาก descending ให้เป็น ascending
 2. merge collection_1 และ collection_2
 3. merge ผลจากข้อ 2 กับ collection_3 ที่กลับแล้ว
+4. ใช้่ vitest ในการ test 
